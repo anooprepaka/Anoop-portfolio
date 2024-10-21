@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hi, I’m Anoop Reddy Repaka, a <b className="purple">Full Stack Java Developer</b> with nearly 9 years of experience working on enterprise-level applications across industries like healthcare, retail, and finance.
+              Hi, I’m Anoop Reddy Repaka, a <b className="purple">Full Stack Java Developer</b> with nearly 8 years of experience working on enterprise-level applications across industries like healthcare, retail, and finance.
               <br />
               <br />
               I enjoy building both the backend and frontend, using technologies like <b className="purple">Java</b>, <b className="purple">Spring Boot</b>, and <b className="purple">React</b> to create solutions that are scalable and efficient.
