@@ -7,32 +7,30 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-        <p style={{ textAlign: "justify" }}>
-    I’m <span className="purple">Anoop Reddy</span>, a tech-savvy software engineer 
-    with a passion for exploring new technologies and building awesome solutions. 
-    <br />
-    I’m currently wrapping up my Master’s in Computer Software Engineering from 
-    <span className="purple">Arizona State University</span>, and I’m always on 
-    the lookout for the latest trends in cloud computing, software development, 
-    and all things tech! 🚀
-    <br />
-    <br />
-    Apart from coding, some other activities that I love to do!
-</p>
+          <p style={{ textAlign: "justify" }}>
+            Hi, I’m <span className="purple">Anoop Reddy</span>, a tech-savvy software engineer with nearly 8 years of experience in software development. 
+            I specialize in building high-performance applications using <span className="purple">Java, Spring Boot, and cloud technologies</span>, 
+            and I’ve contributed to projects across industries like Finance, Banking, Healthcare, and Retail.
+            <br />
+            <br />
+            I’m currently wrapping up my Master’s in Computer Software Engineering at <span className="purple">Arizona State University</span>, 
+            and I’m always excited about the latest trends in cloud computing and software development! 🚀
+            <br />
+            <br />
+            Beyond coding, here are some activities I enjoy:
+          </p>
 
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing Games 🎮
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Writing Tech Blogs ✍️
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Travelling ✈️
             </li>
           </ul>
-
-          
         </blockquote>
       </Card.Body>
     </Card>
